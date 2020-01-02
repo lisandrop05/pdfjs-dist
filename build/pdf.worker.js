@@ -29228,10 +29228,8 @@ function (_Annotation2) {
 
     if (data.fieldType === 'Sig') {
       data.fieldValue = null;
-
       //_this3.setFlags(_util.AnnotationFlag.HIDDEN);
-        data.fieldValue = null;
-
+      //   data.fieldValue = null;
     }
 
     return _this3;
