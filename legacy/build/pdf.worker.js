@@ -29697,7 +29697,7 @@ var SignatureWidgetAnnotation = /*#__PURE__*/function (_WidgetAnnotation4) {
     _classCallCheck(this, SignatureWidgetAnnotation);
 
     _this9 = _super6.call(this, params);
-    _this9.data.fieldValue = null;
+    // _this9.data.fieldValue = null;
     return _this9;
   }
 
