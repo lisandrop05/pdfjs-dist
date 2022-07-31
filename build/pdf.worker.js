@@ -20275,7 +20275,7 @@ class ChoiceWidgetAnnotation extends WidgetAnnotation {
 class SignatureWidgetAnnotation extends WidgetAnnotation {
   constructor(params) {
     super(params);
-    this.data.fieldValue = null;
+    // this.data.fieldValue = null;
   }
 
   getFieldObject() {
